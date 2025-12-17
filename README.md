@@ -71,7 +71,7 @@
 - 🖥️ Interface graphique avec Tkinter
 - 🔧 Architecture modulaire et maintenable
 
-**Technologies :** Python 3, Tkinter, HTML5
+**Technologies :** Python 3, Tkinter, HTML5,CSS3 
 
 **Rôle :** Développement complet de la partie Python dans un projet d'équipe
 
