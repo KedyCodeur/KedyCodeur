@@ -186,7 +186,7 @@ Je suis activement à la recherche d'opportunités de **stage** ou d'**alternanc
 
 [![Email](https://img.shields.io/badge/📧_cemsahozdemirel791@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:cemsahozdemirel791@gmail.com)
 
-[![LinkedIn](https://img.shields.io/badge/Me_contacter_sur_LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]([https://www.linkedin.com/in/cem-sah-ozdemirel-06aa88387/?originalSubdomain=fr](https://www.linkedin.com/in/cem-sah-ozdemirel-06aa88387/))
+[![LinkedIn](https://img.shields.io/badge/Me_contacter_sur_LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]([[https://www.linkedin.com/in/cem-sah-ozdemirel-06aa88387/?originalSubdomain=fr](https://www.linkedin.com/in/cem-sah-ozdemirel-06aa88387/)](https://www.linkedin.com/in/cem-sah-ozdemirel-06aa88387/))
 
 ---
 
