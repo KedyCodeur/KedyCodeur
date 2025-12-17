@@ -167,10 +167,6 @@ const cem = {
 
 ---
 
-## 🌱 Objectifs d'Apprentissage 2025
-
-- 🟢 **Node.js** - Backend JavaScript
-
 ## 💼 Pourquoi me choisir pour votre équipe ?
 
 ✅ **Motivé et passionné** - Le développement est ma passion, pas juste mes études  
