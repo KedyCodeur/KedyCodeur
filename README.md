@@ -31,6 +31,7 @@
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
 ### Outils & Technologies
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
@@ -117,6 +118,22 @@
 
 ---
 
+🌍 SupSimulation - Geopolitical Simulation Database
+MySQL database project simulating a geopolitical strategy game world state
+
+🗺️ Complex data modifications across continents (annexations, mergers, independence events)
+🏗️ Full Merise data modeling (CDM/LDM/PDM) with data dictionary
+🆕 New "NewWorld" database schema with military & alliance entities
+📦 Bonus: Intelligent data migration from World → NewWorld
+
+Technologies : Afficher l'image
+Compétences démontrées :
+
+SQL (DDL, DML, complex queries)
+Relational data modeling (Merise method)
+Data consistency & integrity management
+Database migration strategies
+
 ## 📈 Statistiques GitHub
 
 <div align="center">
@@ -130,7 +147,21 @@
 </div>
 
 ---
+📋 SupTaskFlow - Collaborative Kanban App
+Full-stack Kanban task management application (Trello-like)
 
+🔐 JWT authentication with session persistence
+🧩 Full Kanban logic: boards, columns, cards with drag & drop
+📱 Responsive design with mobile-first approach
+🔔 Toast notifications & loading states for complete UX feedback
+
+Technologies : JS + Strapi + React
+Compétences démontrées :
+
+REST API design & consumption (Strapi Headless CMS)
+Frontend framework (React / Vue / Angular)
+Drag & Drop implementation (dnd-kit / vuedraggable)
+API security & data integrity
 ## 🎯 Compétences Personnelles
 
 ```javascript
