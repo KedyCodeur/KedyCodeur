@@ -1,12 +1,12 @@
-# Hi there, I'm Cem Sah Ozdemirel! [cite_start]👋 
-### 🚀 Full-Stack Developer | [cite_start]Computer Science Student @ SUPINFO Paris 
+# Hi there, I'm Cem Sah Ozdemirel!👋 
+### 🚀 Full-Stack Developer |Computer Science Student @ SUPINFO Paris 
 
-I am a dedicated developer focused on building clean, efficient, and interactive digital solutions[cite: 32]. [cite_start]Currently a **Bachelor in Informatique** student at **SUPINFO Paris**, I combine my academic knowledge with hands-on full-stack development, ranging from React interfaces to Python-based system tools.
+I am a dedicated developer focused on building clean, efficient, and interactive digital solutions. Currently a **Bachelor in Informatique** student at **SUPINFO Paris**, I combine my academic knowledge with hands-on full-stack development, ranging from React interfaces to Python-based system tools.
 
 ---
 
 ### 🎯 My Focus & Goals
-- ⚡ **Seeking an Apprenticeship (Alternance)** starting in **September 2026**[cite: 31, 34].
+- ⚡ **Seeking an Apprenticeship (Alternance)** starting in **September 2026**.
 - 🛠️ Building robust full-stack applications using **React** and **Strapi** with a focus on security and performance.
 - 🎨 Crafting immersive web experiences with **Three.js** and interactive 3D graphics.
 
