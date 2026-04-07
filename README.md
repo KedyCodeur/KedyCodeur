@@ -48,7 +48,7 @@ I am a dedicated developer focused on building clean, efficient, and interactive
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=KedyCodeur&show_icons=true&theme=tokyonight&bg_color=333333&title_color=bf953f&icon_color=a855f7" alt="Cem's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=KedyCodeur&show_icons=true&theme=dark&hide_border=true" alt="Cem's GitHub Stats" />
 </p>
 
 ---
