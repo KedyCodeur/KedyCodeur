@@ -67,7 +67,7 @@ Built **Infinity**, a React Native/Expo mobile app running on Sunmi terminals fo
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=KedyCodeur&show_icons=true&theme=dark&hide_border=true" alt="Cem's GitHub Stats" />
+ <img src="stats.svg" alt="Cem's GitHub Stats" />
 </p>
 
 ---
